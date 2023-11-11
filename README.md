@@ -15,6 +15,8 @@ This is a simple React application that demonstrates CRUD (Create, Read, Update,
 - CSS (Bootstrap)
 - JavaScript
 
+
+
 ## Screenshots
 ![screencapture-localhost-3000-2023-07-18-06_28_49](https://github.com/itpmanis/react-03-crud/assets/95114404/92b596c3-3b60-43e0-89fb-a8021dfcc2fa)
 
